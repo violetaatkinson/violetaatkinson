@@ -2,7 +2,7 @@
 
 <h4>I'm Viole a Full Stack Web Developer 👩‍💻</h4>
 
-- 🔭 &nbsp;I’m currently looking for a job :wink:
+- 👩‍💻 &nbsp;I’m currently working for The Cocktail 
 - 🌱 &nbsp;Always learning and studying
 - 📫 &nbsp;Reach me: <a rel="me" href="https://www.linkedin.com/in/violeta-atkinson-97b182134/">violetaatkinson</a>
 - ⚡ &nbsp;Fun fact: I ❤️ 🐶 and 🎮
