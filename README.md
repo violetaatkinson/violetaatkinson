@@ -19,7 +19,8 @@ ___
           <span><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C"></span>
           <span><img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"></span>
           <span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"></span>
-           <span><img src="https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress"></span>
+          <span><img src="https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress"></span>
+          <span><img src="https://img.shields.io/badge/-sass-333333?style=flat&logo=sass"></span>
       </li>
       </ul>
       <br>
