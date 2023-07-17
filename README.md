@@ -40,6 +40,8 @@ ___
           <li>
               <span><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"></span>
               <span><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></span>
+              <span><img src="https://img.shields.io/badge/-bitbucket-333333?style=flat&logo=bitbucket"></span>
+              <span><img src="https://img.shields.io/badge/-azure devops-333333?style=flat&logo=azure devops"></span>
           </li>
       </ul>
 </div>
