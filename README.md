@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to Meet you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
 <h4>I'm Viole a Full Stack Web Developer 😉 </h4>
 
-- 👩‍💻 &nbsp;I’m currently working for The Cocktail 
+- 👩‍💻 &nbsp;I’m currently working on learning more skills!
 - 🌱 &nbsp;Always learning and studying
 - 📫 &nbsp;Reach me: <a rel="me" href="https://www.linkedin.com/in/violeta-atkinson-97b182134/">violetaatkinson</a>
 - ⚡ &nbsp;Fun fact: I ❤️ 🐶 and 🎮
