@@ -16,7 +16,8 @@ ___
           <span><img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"></span>
           <span><img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"></span>
           <span><img src="https://img.shields.io/badge/-sass-333333?style=flat&logo=sass"></span>
-          <span><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C"></span>
+          <span><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logologoColor=white"></span>
+          <span><img src="https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css"></span>
           <span><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"></span>
           <span><img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"></span>
           <span><img src="https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress"></span>
